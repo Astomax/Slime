@@ -1,0 +1,18 @@
+﻿  slime.cpp
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(23,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(127,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(181,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(182,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(277,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(285,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(286,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(345,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(346,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(366,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(367,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(450,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(465,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(480,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(489,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\slime\slime\slime.cpp(489,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  slime.vcxproj -> C:\Users\alekk\OneDrive\Bureaublad\C++\slime\x64\Debug\slime.exe
